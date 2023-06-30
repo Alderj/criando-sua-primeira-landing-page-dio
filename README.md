@@ -3,7 +3,7 @@
 
 ## Participei do primeiro desafio da Trilha de CSS da <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="50"/>. 
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+![image][(https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png](https://alderj.github.io/criando-sua-primeira-landing-page-dio/))
 
 
 [Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
